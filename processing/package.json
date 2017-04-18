@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "gm": "^1.23.0",
+    "markdown": "^0.5.0"
+  }
+}

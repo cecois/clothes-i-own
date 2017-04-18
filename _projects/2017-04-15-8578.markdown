@@ -1,0 +1,17 @@
+---
+layout: project
+title: "YOUR PROJECT NAME"
+date: 2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- project
+img: IMG_8578.JPG
+thumb: IMG_8578.JPG
+tagged: Flat,UI,Development
+client: Wonder Corp.
+website: http://blacktie.co
+---
+####YOUR PROJECT NAME
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.
