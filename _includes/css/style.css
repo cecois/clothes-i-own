@@ -97,7 +97,7 @@ a:focus {
 	BOOTSTRAP MODIFICATIONS & TWEAKS
 ################################################################# */
 .navbar {
-	min-height: 70px;
+	min-height: 20px;
 	padding-top: 10px;
 	margin-bottom: 0px;
 }
@@ -108,17 +108,19 @@ a:focus {
 }
 
 .navbar-header .navbar-brand {
-	color: white;
+	//color: white;
+	color: #DDDDDD;
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: white;
+	//color: white;
+	color: {{ site.colors.link }};
 	font-weight: 700;
 	font-size: 12px;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
-	color: {{ site.colors.primary }};
+	color: {{ site.colors.link_hover }};
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
@@ -275,7 +277,7 @@ a:focus {
 
 .tpl6 h3
 {
-	color:#fff;
+	color:#000;
 	margin:0;
 	padding:40px 5px 0;
 	font-size:16px;

@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "gm": "^1.23.0",
-    "markdown": "^0.5.0"
+    "markdown": "^0.5.0",
+    "underscore": "^1.8.3"
   }
 }

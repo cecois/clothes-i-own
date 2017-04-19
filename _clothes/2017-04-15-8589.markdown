@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "Suit!"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-13-IMG_8589.png
+origin: possibly purchased in Texas
+tagged: funerals,interviews
+website: http://clothes-lbones.rhcloud.com
+---
+####Suit!
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

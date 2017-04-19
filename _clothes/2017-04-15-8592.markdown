@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "Powder Blue Dress Shirt - Merona"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-15-IMG_8592.png
+origin: ??
+tagged: discoloration,stained,makesmelookfat
+website: http://clothes-lbones.rhcloud.com
+---
+####Powder Blue Dress Shirt - Merona
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

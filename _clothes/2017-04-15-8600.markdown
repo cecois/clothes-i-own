@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "Long Check Blue+Gray Dress Shirt"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-22-IMG_8600.png
+origin: ??
+tagged: discoloration,holes,makesmelookfat
+website: http://clothes-lbones.rhcloud.com
+---
+####Long Check Blue+Gray Dress Shirt
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

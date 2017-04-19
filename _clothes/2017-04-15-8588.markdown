@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "Pewter Blue Zip-Up Hoodie"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-12-IMG_8588.png
+origin: ??
+tagged: circulates,holes
+website: http://clothes-lbones.rhcloud.com
+---
+####Pewter Blue Zip-Up Hoodie
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

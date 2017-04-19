@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "The Best Thing - (supposed) German military T"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-30-IMG_8608.png
+origin: Cape Cod thrift
+tagged: makesmelookfat,holes,circulates
+website: http://clothes-lbones.rhcloud.com
+---
+####The Best Thing - (supposed) German military T
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

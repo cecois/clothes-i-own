@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "Boston Heart T"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-9-IMG_8585.png
+origin: gift immediately following the Boston Marathon bombings of 2013
+tagged: logocracking,pitstains,makesmelookfat
+website: http://clothes-lbones.rhcloud.com
+---
+####Boston Heart T
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

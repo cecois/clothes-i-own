@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "Striped Gray/Blue Dress Shirt"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-14-IMG_8591.png
+origin: ??
+tagged: discoloration,makesmelookfat
+website: http://clothes-lbones.rhcloud.com
+---
+####Striped Gray/Blue Dress Shirt
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

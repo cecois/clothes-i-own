@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "'Yellows'"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-27-IMG_8605.png
+origin: Mossimo somehow
+tagged: holes,sockforpocket,makesmelookfat,circulates
+website: http://clothes-lbones.rhcloud.com
+---
+####'Yellows'
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

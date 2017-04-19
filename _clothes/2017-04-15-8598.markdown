@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "Blue Cuffed T w/ Sanitizer Stain"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-21-IMG_8598.png
+origin: ??
+tagged: discoloration,stained,holes,makesmelookfat
+website: http://clothes-lbones.rhcloud.com
+---
+####Blue Cuffed T w/ Sanitizer Stain
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

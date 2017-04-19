@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "White Dress Shirt"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-16-IMG_8593.png
+origin: probably purchased with 'Suit'
+tagged: discoloration,makesmelookfat,grimywhite
+website: http://clothes-lbones.rhcloud.com
+---
+####White Dress Shirt
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "Long Check Pastel Dress Shirt"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-4-IMG_8579.png
+origin: ??
+tagged: faded, makesmelookfat
+website: http://clothes-lbones.rhcloud.com
+---
+####Long Check Pastel Dress Shirt
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

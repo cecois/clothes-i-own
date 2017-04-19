@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "The 1975"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-19-IMG_8596.png
+origin: father
+tagged: holes,makesmelookfat,discoloration
+website: http://clothes-lbones.rhcloud.com
+---
+####The 1975
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

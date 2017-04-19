@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "GAP 1969 Dude Pants, Maroon"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-31-IMG_8609.png
+origin: GAP
+tagged: holes,stained,circulates
+website: http://clothes-lbones.rhcloud.com
+---
+####GAP 1969 Dude Pants, Maroon
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

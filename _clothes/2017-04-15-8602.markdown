@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "Color Me Rad T"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-24-IMG_8602.png
+origin: stolen from son
+tagged: faded,logocracking,circulates,makesmelookfat
+website: http://clothes-lbones.rhcloud.com
+---
+####Color Me Rad T
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

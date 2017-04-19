@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "Powder Blue Dress Shirt - Stafford"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-11-IMG_8587.png
+origin: ??
+tagged: stained,makesmelookfat,discoloration
+website: http://clothes-lbones.rhcloud.com
+---
+####Powder Blue Dress Shirt - Stafford
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "White Under T"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-18-IMG_8595.png
+origin: certainly came in the same pack as 'Fun Run T'
+tagged: discoloration,grimywhite,makesmelookfat
+website: http://clothes-lbones.rhcloud.com
+---
+####White Under T
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "Tight Check Dress Shirt"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-6-IMG_8581.png
+origin: long-dead former boss
+tagged: faded, makesmelookfat, orange
+website: http://clothes-lbones.rhcloud.com
+---
+####Tight Check Dress Shirt
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

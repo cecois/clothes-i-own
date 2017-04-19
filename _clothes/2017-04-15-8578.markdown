@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "MTA F-Train T"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-3-IMG_8578.png
+origin: gift
+tagged: holes, faded, pitstains, logocracking, makesmelookfat, circulates
+website: http://clothes-lbones.rhcloud.com
+---
+####MTA F-Train T
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

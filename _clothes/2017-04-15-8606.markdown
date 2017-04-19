@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "GAP 1969 Dude Pants"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-28-IMG_8606.png
+origin: GAP
+tagged: holes,seethrough,makesmelookfat,circulates
+website: http://clothes-lbones.rhcloud.com
+---
+####GAP 1969 Dude Pants
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

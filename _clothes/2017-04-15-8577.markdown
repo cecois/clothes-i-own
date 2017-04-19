@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "Black Pocketed T"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-2-IMG_8577.png
+origin: GAP, it says
+tagged: holes, pitstains, makesmelookfat, circulates
+website: http://clothes-lbones.rhcloud.com
+---
+####Black Pocketed T
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

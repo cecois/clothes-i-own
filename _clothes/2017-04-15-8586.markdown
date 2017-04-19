@@ -1,0 +1,16 @@
+---
+layout: garment
+title:  "Driscoll School 'Joy in Thinking' T"
+date:  2017-04-15 16:54:46
+author: C.C. Miller
+categories:
+- clothes
+img: imgk-10-IMG_8586.png
+origin: Michael Driscoll School fund drive
+tagged: grimywhite,logocracking,makesmelookfat
+website: http://clothes-lbones.rhcloud.com
+---
+####Driscoll School 'Joy in Thinking' T
+Lorem Ipsum
+####Our Proposal
+Lorem Ipsum.

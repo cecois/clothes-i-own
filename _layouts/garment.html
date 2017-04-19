@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+{% include wrap.html %}
+
+<div class="container mt">
+    <div class="row">
+
+        {% include carousel.html %}
+
+        <div class="col-lg-5 col-lg-offset-1">
+            <div class="spacing"></div>
+
+            <!-- {{ content }} -->
+            <img src="{{ "/assets/img/garment/" | prepend: site.baseurl }}{{ page.img }}" alt="">
+
+        </div>
+        <div class="col-lg-4 col-lg-offset-1">
+            <div class="spacing"></div>
+            <h4>Garment Details</h4>
+            <div class="hline"></div>
+            <p><b>Name:</b> {{ page.title }}</p>
+            <p><b>Origin:</b> {{ page.origin }}</p>
+            <p><b>Tagged:</b> {{ page.tagged }}</p>
+        </div>
+    </div><! --/row -->
+</div><! --/container -->
+	 
+{% include portfolio.html title="Related Garments." limit=5 %}
